@@ -1,5 +1,6 @@
-# Investigating Which Factors Affect Outage Duration
+# Energy Outage Trends EDA and Predictive Modeling
 ### Name: Natasha Lie
+###Website: https://natashalie8.github.io/Energy-Outage-Trends-EDA-and-Predictive-Modeling/
 # Introduction
 
 ## Background
